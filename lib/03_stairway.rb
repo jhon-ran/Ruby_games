@@ -37,6 +37,7 @@ def play
             i += 1
             puts " Tu es sur la marche #{move}"
         end
+	break    
     end
         puts "Félicitations champion du monde !"
 end
